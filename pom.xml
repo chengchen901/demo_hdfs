@@ -100,7 +100,7 @@
                             </descriptorRefs>
                         </configuration>
                     </execution>
-                    <execution>
+                    <!--<execution>
                         <id>dist</id>
                         <phase>package</phase>
                         <goals>
@@ -111,7 +111,7 @@
                                 <descriptor>dist.xml</descriptor>
                             </descriptors>
                         </configuration>
-                    </execution>
+                    </execution>-->
                 </executions>
             </plugin>
         </plugins>
